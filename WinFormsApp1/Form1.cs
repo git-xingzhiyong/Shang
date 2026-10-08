@@ -14,6 +14,7 @@ namespace WinFormsApp1
             MessageBox.Show("44444");
             MessageBox.Show("test3");
             MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
+            MessageBox.Show("315315");
         }
     }
 }
