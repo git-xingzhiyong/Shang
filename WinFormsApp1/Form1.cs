@@ -13,13 +13,11 @@ namespace WinFormsApp1
             MessageBox.Show("3333333");
             MessageBox.Show("44444");
             MessageBox.Show("test3");
-<<<<<<< HEAD
+
             MessageBox.Show("å¤§ç‰›å¤§ç‰›å¤?");
 
             MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
             MessageBox.Show("´óÅ£´óÅ£´ó");
-=======
-
             MessageBox.Show("test2");
             MessageBox.Show("test2+111");
             MessageBox.Show("1233333333");
@@ -29,7 +27,6 @@ namespace WinFormsApp1
             MessageBox.Show("daniudaniuda6666666");
                 
             MessageBox.Show("315315");
->>>>>>> fce5059058453e359ee8bc59ca6a173b33f48008
         }
     }
 }
