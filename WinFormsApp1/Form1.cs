@@ -24,5 +24,10 @@ namespace WinFormsApp1
             MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
 >>>>>>> 9985274129dd9081360867915ad86d4c2e960f54
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
