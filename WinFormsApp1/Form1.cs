@@ -20,8 +20,9 @@ namespace WinFormsApp1
             MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
 
 
-            MessageBox.Show("daniudaniuda");
+            MessageBox.Show("daniudaniuda6666666");
                 
+            MessageBox.Show("315315");
         }
     }
 }
