@@ -13,6 +13,12 @@ namespace WinFormsApp1
             MessageBox.Show("3333333");
             MessageBox.Show("44444");
             MessageBox.Show("test3");
+            MessageBox.Show("645515");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
