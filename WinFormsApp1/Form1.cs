@@ -16,7 +16,12 @@ namespace WinFormsApp1
 
             MessageBox.Show("test2");
             MessageBox.Show("test2+111");
-            MessageBox.Show("1233333333")
+            MessageBox.Show("1233333333");
+            MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
+
+
+            MessageBox.Show("daniudaniuda");
+                
         }
     }
 }
