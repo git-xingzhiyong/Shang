@@ -13,8 +13,10 @@ namespace WinFormsApp1
             MessageBox.Show("3333333");
             MessageBox.Show("44444");
             MessageBox.Show("test3");
-            MessageBox.Show("å¤§ç‰›å¤§ç‰›å¤§");
+            MessageBox.Show("å¤§ç‰›å¤§ç‰›å¤?");
 
+            MessageBox.Show("²ÝÂÊ²ÝÂÊ²Ý");
+            MessageBox.Show("´óÅ£´óÅ£´ó");
         }
     }
 }
